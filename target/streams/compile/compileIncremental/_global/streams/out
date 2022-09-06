@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 0 products, 0 sources, 0 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Song.scala, ${BASE}/src/main/scala/User.scala, ${BASE}/src/main/scala/Artist.scala, ${BASE}/src/main/scala/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/main/scala/Artist.scala, ${BASE}/src/main/scala/Song.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/User.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 4 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /Users/aispas/Desktop/Spotify/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.7.1:compile for Scala 2.13.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler cb7507f for Scala compiler version 2.13.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/resources.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/rt.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/sunrsasign.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/jsse.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/jce.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/charsets.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/lib/jfr.jar:/Users/aispas/.sdkman/candidates/java/8.332.08.1-amzn/jre/classes:/Users/aispas/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/aispas/Desktop/Spotify/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m

@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/aispas/Desktop/Spotify/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/aispas/Desktop/Spotify/src/main/scala/Main.scala:2:12: object mysql is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.mysql.jdbc.Driver[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/aispas/Desktop/Spotify/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock.[0m
